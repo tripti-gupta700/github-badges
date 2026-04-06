@@ -50,7 +50,7 @@ GitHub profile badges (also called **Achievements**) were introduced after the l
 </div>
 
 ---
-
+##Earnable Badges ##
 ## 🏆 Obtainable Badges
 
 > These badges are **currently earnable** right now.
