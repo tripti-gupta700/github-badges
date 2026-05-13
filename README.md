@@ -387,7 +387,7 @@ Contact [GitHub Support](https://support.github.com) — they can manually trigg
 > No. Self-marked answers do not count. The answer must be marked by the **original question author** or someone with appropriate repo permissions.
 
 **Q: Do draft pull requests count toward Pull Shark?**
-> No. Draft PRs that are merged do count, but they must actually be merged. Draft PRs that remain drafts or are closed without merging do not count.
+> Yes. Draft PRs count only if they are eventually merged. Draft PRs that remain drafts or are closed without merging do not count.
 
 **Q: If I earn a badge on an account, then delete the repo, do I keep the badge?**
 > Yes. Badges are tied to your account, not to the repository. Deleting the repo after earning the badge does not remove it.
