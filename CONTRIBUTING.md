@@ -27,3 +27,12 @@ Thank you for considering contributing! 🎉
 - Be respectful and constructive
 
 Thank you! 🛡️
+## Pull Request Checklist
+
+Before opening a Pull Request, please make sure:
+
+- Your changes are focused on the purpose of the contribution
+- Markdown formatting is valid and easy to read
+- Badge information and instructions are accurate
+- Your changes do not introduce unnecessary files
+- The Pull Request description clearly explains what was changed
