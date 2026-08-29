@@ -208,10 +208,14 @@ GitHub profile badges (also called **Achievements**) were introduced after the l
 1. Go to GitHub Explore → find public repositories with Discussions enabled
    (Look for the "Discussions" tab in any repo you follow)
 2. Browse for open, unanswered questions you can genuinely help with
-3. Write a clear, helpful, detailed answer
-4. The discussion author marks your reply as "✅ Answered"
+3. Write a clear, helpful answer to the question
+4. The original question author or someone with appropriate repository
+   permissions must mark your answer as accepted
 5. Repeat until you have 2 accepted answers
 ```
+
+> ⚠️ Do not create or coordinate artificial questions and answers solely
+> to obtain the achievement. Keep your contributions genuine and helpful.
 
 > 🚨 **Important 2024 Update:** You can NO longer earn this badge via the main GitHub Community Discussions forum (`github.com/orgs/community/discussions`). GitHub disabled badge awarding there in February 2024 to combat spam. Instead, find repos with Discussions enabled using the Explore feature.
 
