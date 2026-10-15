@@ -40,6 +40,7 @@ GitHub profile badges (also called **Achievements**) were introduced after the l
 
 > These badges are **not yet publicly available** but are coming soon.
 
+For the latest official information, see the [GitHub Achievements documentation](https://docs.github.com/en/account-and-profile/reference/profile-achievements).
 <div align="center">
 
 | Badge | Name | How to Earn | Difficulty |
