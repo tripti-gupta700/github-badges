@@ -112,6 +112,8 @@ GitHub profile badges (also called **Achievements**) were introduced after the l
 | ![](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true) | ![](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-bronze.png?raw=true) | ![](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-silver.png?raw=true) | ![](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-gold.png?raw=true) |
 | **2 PRs** | **16 PRs** | **128 PRs** | **1,024 PRs** |
 
+> **How to earn it:** Open a pull request with a meaningful change and get it merged into the target repository. The base Pull Shark achievement requires 2 qualifying merged pull requests. See [GitHub's profile achievements documentation](https://docs.github.com/en/account-and-profile/reference/profile-achievements) for details.
+
 ### 👥 Pair Extraordinaire
 | Default | 🥉 Bronze | 🥈 Silver | 🥇 Gold |
 |:---:|:---:|:---:|:---:|
